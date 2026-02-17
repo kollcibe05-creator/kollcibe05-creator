@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kollcibe05-creator/kollcibe05-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,54 +12,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Collins Kibet 👋 
-
-### Full-Stack Software Developer | Python & JavaScript Enthusiast
+### Full-Stack Software Developer | Python & JavaScript 
 
 I am a disciplined and reliable Software Developer recently graduated from **Moringa School**. I specialize in building secure, scalable web applications using **Flask** and **React**, with a strong focus on **Test-Driven Development (TDD)** and seamless payment integrations like **M-Pesa**.
 
 ---
 
-### 🚀 Technical Skills
+### Technical Skills
 
-- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3
+- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3, Python
 - **Frontend:** React, Redux, Tailwind CSS, Vite
 - **Backend:** Flask, SQLAlchemy, RESTful APIs
 - **Databases:** PostgreSQL, SQLite
 - **Testing:** Jest, Pytest, Mocha
-- **Tools:** Git/GitHub, Docker, Postman, Render, Firebase
+- **Tools:** Git/GitHub, Postman, Render, Firebase <!--, Docker->
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
-#### 🐾 [Vetty](https://github.com/kollcibe05-creator/Vetty)
+#### [Vetty](https://github.com/kollcibe05-creator/Vetty)
 **Full-Stack Pet Service & E-commerce Platform**
 - **Key Features:** Integrated **M-Pesa (Daraja API)** for payments, JWT Authentication, and an Admin Dashboard.
 - **Tech:** React-Redux, Flask, PostgreSQL, Jest.
 - **Role:** Scrum Master (Agile Lead).
 
-#### 🏠 [Sweet Homes](https://github.com/kollcibe05-creator/Sweet-Homes)
+#### [Sweet Homes](https://github.com/kollcibe05-creator/Sweet-Homes)
 **Advanced Reservation System (Airbnb-style)**
 - **Key Features:** Real-time booking feedback, sophisticated UI, and robust User Authorization.
 - **Tech:** Flask, React-Vite, CSS3.
+- **Role:** Scrum Master (Agile Lead).
 
-#### 📚 [Readify](https://github.com/kollcibe05-creator/Readify)
+#### [Readify](https://github.com/kevinkiplangat432/End-phase-project)
 **Digital Library Interface**
-- **Key Features:** Optimized pagination for **480+ books** via Gutendex API integration.
+- **Key Features:** Optimized pagination for **76000+ books** via Gutendex API integration.
 - **Tech:** Flask, React, Tailwind CSS, Firebase.
 
+<!--
 ---
 
 ### 📊 GitHub Stats
 ![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kollcibe05-creator&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kollcibe05-creator&layout=compact&theme=radical)
-
+-->
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Collins Kibet](LINK_TO_YOUR_LINKEDIN)
+- **LinkedIn:** [Collins Kibet](https://www.linkedin.com/in/collins-kibet-298a58376/)
 - **Email:** kollcibe05@gmail.com
 - **Portfolio:** [Visit My Site](LINK_TO_YOUR_PORTFOLIO)
+  Other contact details are provided just below my account details.
 
 *"I am a forever-student, always looking for the next challenge in the world of software engineering."*
