@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Full-Stack Software Developer | Python & JavaScript 
 
-I am a disciplined and reliable Software Developer recently graduated from **Moringa School**. I specialize in building secure, scalable web applications using **Flask** and **React**, with a strong focus on **Test-Driven Development (TDD)** and seamless payment integrations like **M-Pesa**.
+I am a adept and reliable Software Developer recently graduated from **Moringa School**. I specialize in building secure, scalable web applications using **Flask** and **React**, with a strong focus on **Test-Driven Development (TDD)** and seamless payment integrations like **M-Pesa**.
 
 ---
 
@@ -61,7 +61,7 @@ I am a disciplined and reliable Software Developer recently graduated from **Mor
 ### How to reach me:
 - **LinkedIn:** [Collins Kibet](https://www.linkedin.com/in/collins-kibet-298a58376/)
 - **Email:** kollcibe05@gmail.com
-- Other contact details are provided just below my account details.
+- Other contact details are provided just below my profile particulars.
 <!--
 - **Portfolio:** [Visit My Site](LINK_TO_YOUR_PORTFOLIO)
 -->
