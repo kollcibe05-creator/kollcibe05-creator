@@ -25,7 +25,8 @@ I am a disciplined and reliable Software Developer recently graduated from **Mor
 - **Backend:** Flask, SQLAlchemy, RESTful APIs
 - **Databases:** PostgreSQL, SQLite
 - **Testing:** Jest, Pytest, Mocha
-- **Tools:** Git/GitHub, Postman, Render, Firebase <!--, Docker->
+- **Tools:** Git/GitHub, Postman, Render, Firebase
+- <!--, Docker->
 
 ---
 
@@ -57,10 +58,12 @@ I am a disciplined and reliable Software Developer recently graduated from **Mor
 -->
 ---
 
-### 📫 How to reach me:
+### How to reach me:
 - **LinkedIn:** [Collins Kibet](https://www.linkedin.com/in/collins-kibet-298a58376/)
 - **Email:** kollcibe05@gmail.com
+- Other contact details are provided just below my account details.
+<!--
 - **Portfolio:** [Visit My Site](LINK_TO_YOUR_PORTFOLIO)
-  Other contact details are provided just below my account details.
+-->
 
 *"I am a forever-student, always looking for the next challenge in the world of software engineering."*
