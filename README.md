@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 ### Full-Stack Software Developer | Python & JavaScript 
 
-I am an adept and reliable Software Developer recently graduated from **Moringa School**. I specialize in building secure, scalable web applications using **Flask** and **React**, with a strong focus on **Test-Driven Development (TDD)** and seamless payment integrations like **M-Pesa**.
+I am an adept and reliable Software Developer recently graduated from **Moringa School**. I specialize in building secure, scalable web applications using primarily **Flask** and **React**, with a strong focus on **Test-Driven Development (TDD)** and seamless payment integrations like **M-Pesa**.
 
 ---
 
 ### Technical Skills
 
-- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3, Python
+- **Languages:** Python, JavaScript (ES6+), HTML5, CSS3
 - **Frontend:** React, Redux, Tailwind CSS, Vite
 - **Backend:** Flask, SQLAlchemy, RESTful APIs
 - **Databases:** PostgreSQL, SQLite
