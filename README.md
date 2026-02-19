@@ -25,7 +25,7 @@ I am an adept and reliable Software Developer recently graduated from **Moringa 
 - **Backend:** Flask, SQLAlchemy, RESTful APIs
 - **Databases:** PostgreSQL, SQLite
 - **Testing:** Jest, Pytest, Mocha
-- **Tools:** Git/GitHub, Postman, Render, Firebase
+- **Tools:** Git/GitHub, Postman, Render, Firebase, Netlify
 - <!--, Docker->
 
 ---
