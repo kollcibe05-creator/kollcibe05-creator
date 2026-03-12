@@ -65,5 +65,7 @@ I am an adept and reliable Software Developer, recently graduated from **Moringa
 <!--
 - **Portfolio:** [Visit My Site](LINK_TO_YOUR_PORTFOLIO)
 -->
-
+<!---
+SO help me God
+-->
 *"I am a forever-student, always looking for the next challenge in the world of software engineering."*
