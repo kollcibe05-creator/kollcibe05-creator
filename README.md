@@ -64,7 +64,9 @@ I am an adept and reliable Software Developer, recently graduated from **Moringa
 - Other contact details are provided just below my profile particulars.
 <!--
 - **Portfolio:** [Visit My Site](LINK_TO_YOUR_PORTFOLIO)
+- Also state my certifications on self-taught
 -->
+
 <!---
 SO help me God
 Be strong man!!!
