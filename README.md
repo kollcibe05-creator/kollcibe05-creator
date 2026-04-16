@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 I am an adept and reliable Software Developer, recently graduated from **Moringa School**. I specialize in building secure, scalable web applications using primarily **Flask** and **React**, with a strong focus on **Test-Driven Development (TDD)** and seamless payment integrations like **M-Pesa**.
 
+
 ---
 
 ### Technical Skills
