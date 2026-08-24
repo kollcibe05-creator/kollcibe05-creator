@@ -25,7 +25,7 @@ I am an adept and reliable Software Developer, recently graduated from **Moringa
 - **Frontend:** React, Redux, Tailwind CSS, Vite
 - **Backend:** Flask, SQLAlchemy, RESTful APIs
 - **Databases:** PostgreSQL, SQLite
-- **Testing:** Jest, Pytest, Mocha
+- **Testing:** Jest, Pytest, Mocha, Vitest, React Testing Library.
 - **Tools:** Git/GitHub, Postman, Render, Firebase, Netlify
 - <!--, Docker, Kubernetes, CloudFlare, Porkbun->
 
